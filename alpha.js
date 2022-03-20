@@ -1,4 +1,4 @@
-/**----------( Created By SiFzz Botzz )----------
+/**----------( Created By Yanz Botzz )----------
 --------------------------------------------------------------------------
 Di Kasih Sc Gratis, No Pw + Free Apikey
 Apa Susah Nya Pencet Tombol Subscribe
@@ -18,10 +18,10 @@ Apa Susah Nya Pencet Tombol Subscribe
 ✓ Denis ( BASE ORI )  : 
 https://youtube.com/c/DcodeDenpa
 -------------------------------------------------------
-✓ SiFzz Botz ( RECODE ) : 
-https://youtube.com/c/GzBotz
+✓ Yanz Botz ( RECODE ) : 
+https://youtube.com/channel/UCdTdvjr8-fSP2i_WBbCQjoA
 -------------------------------------------------------
-» Help Me 1k Subs SiFzz
+» Help Me 1k Subs Yanz store
 --------------------------------------------------------------**/
 
 const
@@ -129,7 +129,7 @@ const autosticker = JSON.parse(fs.readFileSync('./database/autosticker.json'))
 ky_ttt = []
 tttawal= ["0️⃣","1️⃣","2️⃣","3️⃣","4️⃣","5️⃣","6️⃣","7️⃣","8️⃣","9️⃣"]
 cmhit = []
-fake = "/> SiFzz";
+fake = "/> Yanz";
 autorespon = settings.AutoRespon
 playmusic = settings.AutoMusic
 antidelete = settings.AntiDelete
@@ -1145,7 +1145,7 @@ buttons = [
 ]
 const menuuu = {
 contentText: `${stamtus}`,
-footerText: `SiFz
+footerText: `Yanz
 Sz Bot`,
     buttons: buttons,
     headerType: 1
@@ -1763,7 +1763,7 @@ case 'sound71':
  
  listMsg = {
  buttonText: 'LIST ASUPAN',
- footerText: 'SiFzz✓',
+ footerText: 'Yanz✓',
  description: `Hai kak☺️ Silahkan pilih menu asupan disini,Gunakan Dengan Bijak Ya kakk`,
  sections: [
                      {
@@ -1835,7 +1835,7 @@ case 'hewanmenu':
  
  listMsg = {
  buttonText: 'Animals Menu',
- footerText: 'YT GZBOTZ',
+ footerText: 'Yanz Bot',
  description: `Hai Say Silahkan pilih menu Hewan disini,Gunakan Dengan Bijak Ya kakk`,
  sections: [
                      {
@@ -2117,7 +2117,7 @@ break
 case 'sewabot':
         case 'iklan':
 reply(`Harga Diamond Mobile Legends
-[💎SiFz Store💎]
+[💎Yanz Store💎]
 
 [SUPER FAST]
 15 Diamond = Rp 12.000
@@ -2131,7 +2131,7 @@ Kami Menyediakan Via
 👑Ovo  : prosess
 👑Dana : Prosses
 👑Pulsa :  prosess
-👑Gopay : prosess
+👑Gopay : 085868010957
 ----------------------------------------------------------
 [Super Cepat Aman Terpercaya]
 113 Diamond = Rp 29.000
@@ -3390,7 +3390,7 @@ anu =`Silahkan pilih salah satu di bawah`
  buttons = [{buttonId: 'setmenu ori', buttonText: {displayText: 'ORI'}, type: 1},{buttonId: 'setmenu simpel', buttonText: {displayText: 'SIMPEL'}, type: 1}]
 const skuygelud = {
     contentText: `${anu}`,
-    footerText: '*_©Alpha Botzz_*',
+    footerText: '*_©Yanz Botzz_*',
     buttons: buttons,
     headerType: 1
 }
@@ -3410,7 +3410,7 @@ anu =`Silahkan pilih salah satu di bawah`
  buttons = [{buttonId: 'setallmenu ori', buttonText: {displayText: 'ORI'}, type: 1},{buttonId: 'setallmenu simpel', buttonText: {displayText: 'SIMPEL'}, type: 1}]
 const skuygf = {
     contentText: `${anu}`,
-    footerText: '*_©SiFzz_*',
+    footerText: '*_©Yanz_*',
     buttons: buttons,
     headerType: 1
 }
@@ -3492,7 +3492,7 @@ button = [
 ]
  buttons = {
     contentText: 'Nih Kak Owner ku >_<',
-    footerText: `*SiFzz*`,
+    footerText: `*Yanz*`,
     buttons: button,
     headerType: 1
 }
@@ -3500,12 +3500,12 @@ await alpha.sendMessage(from, buttons, MessageType.buttonsMessage, {quoted: fgi}
 break
 case 'youtube':
 teks =
-`Nih Youtube Owner Ku Jangan Lupa Di Subscribe Ya https://youtube.com/c/GzBotz`
+`Nih Youtube Owner Ku Jangan Lupa Di Subscribe Ya https://youtube.com/c/channel/UCdTdvjr8-fSP2i_WBbCQjoA`
 alpha.sendMessage(from, teks, text, {quoted: ftrol})
 break
 case 'instagram':
 teks =
-`Nih Instagram Owner Ku Jangan Lupa Di Follow Ya https://instagram.com/xgame.sanz`
+`Nih Instagram Owner Ku Jangan Lupa Di Follow Ya https://instagram.com/https://www.instagram.com/invites/contact/?i=sjghn6s978ar&utm_content=ic0cvm0`
 alpha.sendMessage(from, teks, text, {quoted: ftrol})
 break
 case 'tiktod':
@@ -3566,17 +3566,17 @@ case 'donasi':
 donasi =`اتَّقوا النَّارَ ولو بشقِّ تمرةٍ ، فمن لم يجِدْ فبكلمةٍ طيِّبةٍ
 “jauhilah api neraka, walau hanya dengan bersedekah sebiji kurma (sedikit). Jika kamu tidak punya, maka bisa dengan kalimah thayyibah” [HR. Bukhari 6539, Muslim 1016
 ╔════════════════════
-║ FIX BUG Sz X SiFzz
+║ FIX BUG Ynz X Yanz
 ╠════════════════════
 ║╭──❉ *DONASI SiFz* ❉─────
-║│➸ *OVO*: 083856223089
-║│➸ *DANA*: 083856223089
-║│➸ *PULSA*:083856223089
-║│➸ *gopay*:083856223089
-║│➸*ID ML*: 119623381 (2231)
+║│➸ *OVO*: ga punya
+║│➸ *DANA*: ga punya
+║│➸ *PULSA*: pm
+║│➸ *gopay*:085868010957
+║│➸*ID epep*: 
 ║╰──────────────────
 ║
-║❋ཻུ۪۪⸙ BOT BY SiFzz ❋ཻུ۪۪⸙
+║❋ཻུ۪۪⸙ BOT BY Yanz ❋ཻུ۪۪⸙
 ═══════════════════`
 buttons = [
 {buttonId:`listmenu`, buttonText: {displayText: '💟LIST MENU💟️'}, type: 1},
@@ -3595,7 +3595,7 @@ await alpha.sendMessage(from, donatt, MessageType.buttonsMessage, {quoted: ftex}
 "templateMessage": {
 						"hydratedTemplate": {
 							"hydratedContentText": `Hi ${pushname} 👋,\n\n${jmn} - ${week} ${weton} - ${calender}`,
-							"hydratedFooterText": `SiFzzWhatsapp`,
+							"hydratedFooterText": `YanzWhatsapp`,
 							"hydratedButtons": [
 								{
 									"quickReplyButton": {
@@ -3643,12 +3643,12 @@ case 'debug2':
   },
   "hydratedTemplate": {
     "hydratedContentText": `Hi ${pushname} 👋,\n\n${jmn} - ${week} ${weton} - ${calender}`,
-    "hydratedFooterText": `SiFzz Whatsapp`,
+    "hydratedFooterText": `Yanz Whatsapp`,
     "hydratedButtons": [
       {
         "urlButton": {
-          "displayText": `Script SiFzz Whatsapp`,
-          "url": "https://github.com/Gugurko"
+          "displayText": `Script Yanz Whatsapp`,
+          "url": "https://github.com/Dapabot"
         },
         "index": 0
       }
@@ -3794,7 +3794,7 @@ case 'fetch':
 const buttons = [{buttonId: 'autorespon on', buttonText: {displayText: 'ON✔️'}, type: 1},{buttonId: 'autorespon off', buttonText: {displayText: 'OFF✖️'}, type: 1}]
 const btnharam = {
     contentText: `${anu}`,
-    footerText: '*_©Alpha Botzz_*',
+    footerText: '*_©Yanz Botzz_*',
     buttons: buttons,
     headerType: 1
 }
@@ -3814,7 +3814,7 @@ await alpha.sendMessage(from, btnharam, MessageType.buttonsMessage, {quoted: fte
 const buttons = [{buttonId: 'antidelete on', buttonText: {displayText: 'ON✔️'}, type: 1},{buttonId: 'antidelete off', buttonText: {displayText: 'OFF✖️'}, type: 1}]
 const buttonMessage = {
     contentText: `${anu}`,
-    footerText: '*_©Alpha Botzz_*',
+    footerText: '*_©Yanz Botzz_*',
     buttons: buttons,
     headerType: 1
 }
@@ -4305,7 +4305,7 @@ encmediam = JSON.parse(JSON.stringify(mek).replace('quotedM','m')).message.exten
 punten = [{buttonId: 'antivirtex off', buttonText: {displayText: 'OFF✖️'}, type: 1},{buttonId: 'antivirtex on', buttonText: {displayText: 'ON✔️'}, type: 1}]
 const btnasu = {
     contentText: `${anu}`,
-    footerText: '*_©Alpha Botzz_*',
+    footerText: '*_©Yanz Botzz_*',
     buttons: punten,
     headerType: 1
 }
@@ -4334,7 +4334,7 @@ await alpha.sendMessage(from, btnasu, MessageType.buttonsMessage, {quoted: ftex}
 punten = [{buttonId: 'antiwame off', buttonText: {displayText: 'OFF✖️'}, type: 1},{buttonId: 'antiwame on', buttonText: {displayText: 'ON✔️'}, type: 1}]
 const btnasu = {
     contentText: `${anu}`,
-    footerText: '*_©Alpha Botzz_*',
+    footerText: '*_©Yanz Botzz_*',
     buttons: punten,
     headerType: 1
 }
@@ -4363,7 +4363,7 @@ await alpha.sendMessage(from, btnasu, MessageType.buttonsMessage, {quoted: ftex}
 punten = [{buttonId: 'antilink off', buttonText: {displayText: 'OFF✖️'}, type: 1},{buttonId: 'antilink on', buttonText: {displayText: 'ON✔️'}, type: 1}]
 const btnasu = {
     contentText: `${anu}`,
-    footerText: '*_©Alpha Botzz_*',
+    footerText: '*_©Yanz Botzz_*',
     buttons: punten,
     headerType: 1
 }
@@ -4388,7 +4388,7 @@ await alpha.sendMessage(from, btnasu, MessageType.buttonsMessage, {quoted: ftex}
 punten = [{buttonId: 'antibug off', buttonText: {displayText: 'OFF✖️'}, type: 1},{buttonId: 'antibug on', buttonText: {displayText: 'ON✔️'}, type: 1}]
 const btasu = {
     contentText: `${anu}`,
-    footerText: '*_©Alpha Botzz_*',
+    footerText: '*_©Yanz Botzz_*',
     buttons: punten,
     headerType: 1
 }
