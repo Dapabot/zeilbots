@@ -3,9 +3,9 @@ return`━━֍  〔 🪀 _*BY ${botName}*_ 🪀〕
 ──────────────────
 ◈ _Nama Owner : ${NamaOwner}_
 ◈ _Nomor Owner : ${NomorOwner}_
-️ YT : Zeil Botz JANGAN LUPA SUBSCRIBE ️
-️ NOMOR : 081376900646 HEMAT JAN LUPA️S
-〽️ IG : ( PERBAIKAN !! ) JAN LUPA FOLLOW 〽️
+️ YT : Yanz store JANGAN LUPA SUBSCRIBE ️
+️ NOMOR : +48699530349 HEMAT JAN LUPA️S
+〽️ IG : https://www.instagram.com/invites/contact/?i=sjghn6s978ar&utm_content=ic0cvm0 JAN LUPA FOLLOW 〽️
 〽️ TIK TOK : ( PERBAIKAN !! ) JAN LUPA FOLLOW 〽️
 
 
@@ -327,7 +327,7 @@ return`━━֍  〔 🪀 _*BY ${botName}*_ 🪀〕
 ║│${prefix}herolist「 Mobile Legends 」
 ║│${prefix}googlesearch 「 Terserah 」
 ╠══════════════════════╡
-║     By *ZeilBotz*
+║     By *YanzBotz*
 ╚══════════════════════╡`
 }
 exports.menunya = menunya
